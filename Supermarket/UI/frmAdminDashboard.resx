@@ -1,0 +1,1960 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="&gt;&gt;btnexit.Name" xml:space="preserve">
+    <value>btnexit</value>
+  </data>
+  <data name="&gt;&gt;btncategories.Name" xml:space="preserve">
+    <value>btncategories</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="ribbonButton5.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        dAAAEnQB3mYfeAAAABpJREFUWEftwQEBAAAAgiD/r25IQAAAAMC5GhAgAAGdeElDAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="&gt;&gt;btnsales.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label6.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="toolStripMenuItem2.Text" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnsettings.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;btnrep.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;btncategories.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ribbonButton1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RibbonButton, System.Windows.Forms.Ribbon, Version=2.0.0.0, Culture=neutral, PublicKeyToken=928736e248aa81f9</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>panelfooter</value>
+  </data>
+  <data name="&gt;&gt;mainCategoriesToolStripMenuItem.Name" xml:space="preserve">
+    <value>mainCategoriesToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;lbluser.Name" xml:space="preserve">
+    <value>lbluser</value>
+  </data>
+  <data name="تقريرالجردوالمخزونToolStripMenuItem.Text" xml:space="preserve">
+    <value>Inventory Report</value>
+  </data>
+  <data name="&gt;&gt;timer1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label4.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;تصديرToolStripMenuItem.Name" xml:space="preserve">
+    <value>تصديرToolStripMenuItem</value>
+  </data>
+  <data name="btnexit.Text" xml:space="preserve">
+    <value>LogOut</value>
+  </data>
+  <data name="btnreturn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 175</value>
+  </data>
+  <data name="&gt;&gt;btnpurchase.Name" xml:space="preserve">
+    <value>btnpurchase</value>
+  </data>
+  <data name="btnusers.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="loguser.Size" type="System.Drawing.Size, System.Drawing">
+    <value>53, 20</value>
+  </data>
+  <data name="&gt;&gt;ribbonPanel2.Name" xml:space="preserve">
+    <value>ribbonPanel2</value>
+  </data>
+  <data name="ribbonButton6.Text" xml:space="preserve">
+    <value>ribbonButton6</value>
+  </data>
+  <data name="&gt;&gt;btncustomer.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="استيرادToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 26</value>
+  </data>
+  <data name="&gt;&gt;inventoryToolStripMenuItem.Name" xml:space="preserve">
+    <value>inventoryToolStripMenuItem</value>
+  </data>
+  <data name="btnsettings.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageAboveText</value>
+  </data>
+  <data name="btncategories.Text" xml:space="preserve">
+    <value>Categories</value>
+  </data>
+  <data name="panel5.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="&gt;&gt;restoreToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tableLayoutPanel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>63, 101</value>
+  </data>
+  <data name="btnexit.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;label4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ribbonTab1.Text" xml:space="preserve">
+    <value>ribbonTab1</value>
+  </data>
+  <data name="transactionsToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>275, 26</value>
+  </data>
+  <data name="btncustomer.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="panelfooter.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <data name="&gt;&gt;paymentsToolStripMenuItem.Name" xml:space="preserve">
+    <value>paymentsToolStripMenuItem</value>
+  </data>
+  <data name="تصديرToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 26</value>
+  </data>
+  <data name="&gt;&gt;customersSuppliersToolStripMenuItem.Name" xml:space="preserve">
+    <value>customersSuppliersToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;استيرادToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="toolStripMenuItem2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.2pt, style=Bold</value>
+  </data>
+  <data name="ribbonButton3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        dAAAEnQB3mYfeAAAABpJREFUWEftwQEBAAAAgiD/r25IQAAAAMC5GhAgAAGdeElDAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="lbltrial.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;الأدواتToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lbluser.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;creditNoteToolStripMenuItem.Name" xml:space="preserve">
+    <value>creditNoteToolStripMenuItem</value>
+  </data>
+  <data name="btnacct.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageAboveText</value>
+  </data>
+  <data name="btntools.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="groupBox1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="&gt;&gt;btnusers.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="subCategoriesToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>217, 26</value>
+  </data>
+  <data name="&gt;&gt;ribbonTab1.Name" xml:space="preserve">
+    <value>ribbonTab1</value>
+  </data>
+  <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>264, 756</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 10</value>
+  </data>
+  <data name="customersSuppliersToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 26</value>
+  </data>
+  <data name="&gt;&gt;accountingToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;vATReportToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="btnpurchase.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ribbonButton1.LargeImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        dAAAEnQB3mYfeAAAABpJREFUWEftwQEBAAAAgiD/r25IQAAAAMC5GhAgAAGdeElDAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="paymentsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 26</value>
+  </data>
+  <data name="&gt;&gt;btnreturn.Name" xml:space="preserve">
+    <value>btnreturn</value>
+  </data>
+  <data name="&gt;&gt;loguser.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="btnsettings.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;purchaseToolStripMenuItem1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="purchaseToolStripMenuItem.Text" xml:space="preserve">
+    <value>Inventory</value>
+  </data>
+  <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>60, 271</value>
+  </data>
+  <data name="ribbonButton4.Text" xml:space="preserve">
+    <value>ribbonButton4</value>
+  </data>
+  <data name="btnreturn.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="&gt;&gt;btnsales.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label5.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="btnacct.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="ribbonButton6.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        dAAAEnQB3mYfeAAAABpJREFUWEftwQEBAAAAgiD/r25IQAAAAMC5GhAgAAGdeElDAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="&gt;&gt;فاتورةمشترياتToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Supermarket Admin Menu</value>
+  </data>
+  <data name="btnusers.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="ribbonButton7.Text" xml:space="preserve">
+    <value>ribbonButton7</value>
+  </data>
+  <data name="ribbonButton2.SmallImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        dAAAEnQB3mYfeAAAABNJREFUOE9jGAWjYBSMAjBgYAAABBAAAadEfGMAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="productsToolStripMenuItem.Text" xml:space="preserve">
+    <value>Products</value>
+  </data>
+  <data name="panel3.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="&gt;&gt;ribbonPanel3.Name" xml:space="preserve">
+    <value>ribbonPanel3</value>
+  </data>
+  <data name="&gt;&gt;panel5.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="reportsToolStripMenuItem.Text" xml:space="preserve">
+    <value>Reports</value>
+  </data>
+  <data name="btntools.Text" xml:space="preserve">
+    <value>Tools</value>
+  </data>
+  <data name="&gt;&gt;btnusers.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="btnusers.Text" xml:space="preserve">
+    <value>Users</value>
+  </data>
+  <data name="ribbonButton5.Text" xml:space="preserve">
+    <value>ribbonButton5</value>
+  </data>
+  <data name="&gt;&gt;panelfooter.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ribbonButton6.LargeImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        dAAAEnQB3mYfeAAAABpJREFUWEftwQEBAAAAgiD/r25IQAAAAMC5GhAgAAGdeElDAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="btnsales.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="ribbonPanel4.Text" xml:space="preserve">
+    <value>ribbonPanel4</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;ribbonPanel4.Name" xml:space="preserve">
+    <value>ribbonPanel4</value>
+  </data>
+  <data name="lbluser.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="tableLayoutPanel1.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="btncategories" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="btnproducts" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="btnsales" Row="0" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;Control Name="btnpurchase" Row="0" RowSpan="1" Column="6" ColumnSpan="1" /&gt;&lt;Control Name="btnexit" Row="4" RowSpan="1" Column="6" ColumnSpan="1" /&gt;&lt;Control Name="btntools" Row="4" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;Control Name="btnsettings" Row="4" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="btnusers" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="btnacct" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="btnreturn" Row="2" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="btncustomer" Row="2" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;Control Name="btnrep" Row="2" RowSpan="1" Column="6" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,23.52941,Percent,1.960784,Percent,23.52941,Percent,1.960784,Percent,23.52941,Percent,1.960784,Percent,23.52941" /&gt;&lt;Rows Styles="Percent,32,Percent,2,Percent,32,Percent,2,Percent,32" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="ribbonButton2.Text" xml:space="preserve">
+    <value>ribbonButton2</value>
+  </data>
+  <data name="tableLayoutPanel1.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;panel3.Name" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;btnexit.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="usersToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 25</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="panelfooter.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1406, 45</value>
+  </data>
+  <data name="ribbonButton4.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        dAAAEnQB3mYfeAAAABpJREFUWEftwQEBAAAAgiD/r25IQAAAAMC5GhAgAAGdeElDAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ribbonPanel3.Text" xml:space="preserve">
+    <value>ribbonPanel3</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="btnpurchase.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ribbonButton3.SmallImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        dAAAEnQB3mYfeAAAABNJREFUOE9jGAWjYBSMAjBgYAAABBAAAadEfGMAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="ribbonButton3.Text" xml:space="preserve">
+    <value>ribbonButton3</value>
+  </data>
+  <data name="&gt;&gt;issueToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;btnacct.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;ribbonButton3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RibbonButton, System.Windows.Forms.Ribbon, Version=2.0.0.0, Culture=neutral, PublicKeyToken=928736e248aa81f9</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>9, 21</value>
+  </data>
+  <data name="&gt;&gt;btnproducts.Name" xml:space="preserve">
+    <value>btnproducts</value>
+  </data>
+  <data name="btnusers.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="btnpurchase.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="btnrep.Location" type="System.Drawing.Point, System.Drawing">
+    <value>825, 196</value>
+  </data>
+  <data name="&gt;&gt;ribbonButton2.Name" xml:space="preserve">
+    <value>ribbonButton2</value>
+  </data>
+  <data name="btnreturn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="subCategoriesToolStripMenuItem.Text" xml:space="preserve">
+    <value>Sub Category</value>
+  </data>
+  <data name="salesByItemToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>275, 26</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="btnproducts.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="ribbonButton4.LargeImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        dAAAEnQB3mYfeAAAABpJREFUWEftwQEBAAAAgiD/r25IQAAAAMC5GhAgAAGdeElDAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="&gt;&gt;btnsettings.Name" xml:space="preserve">
+    <value>btnsettings</value>
+  </data>
+  <data name="exportToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>224, 26</value>
+  </data>
+  <data name="&gt;&gt;btnsales.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1189, 10</value>
+  </data>
+  <data name="menuStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;mainCategoriesToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="inventoryToolStripMenuItem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.2pt, style=Bold</value>
+  </data>
+  <data name="btnsales.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageAboveText</value>
+  </data>
+  <data name="menuStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 36</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnexit.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt, style=Bold</value>
+  </data>
+  <data name="accountingToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>14, 25</value>
+  </data>
+  <data name="&gt;&gt;الحساباتToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ribbonButton1.Text" xml:space="preserve">
+    <value>ribbonButton1</value>
+  </data>
+  <data name="&gt;&gt;loguser.Name" xml:space="preserve">
+    <value>loguser</value>
+  </data>
+  <data name="&gt;&gt;productsToolStripMenuItem.Name" xml:space="preserve">
+    <value>productsToolStripMenuItem</value>
+  </data>
+  <data name="btnusers.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;transactionsToolStripMenuItem1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 5, 3, 5</value>
+  </data>
+  <data name="&gt;&gt;btnreturn.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;paymentsToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Name" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="issueToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>172, 26</value>
+  </data>
+  <data name="&gt;&gt;subCategoriesToolStripMenuItem.Name" xml:space="preserve">
+    <value>subCategoriesToolStripMenuItem</value>
+  </data>
+  <data name="نسخاحتياطيToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>302, 26</value>
+  </data>
+  <data name="btnacct.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;deacustmenu.Name" xml:space="preserve">
+    <value>deacustmenu</value>
+  </data>
+  <data name="btnrep.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnexit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>251, 177</value>
+  </data>
+  <data name="&gt;&gt;الدفعاتToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="العملاءالموردونToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 26</value>
+  </data>
+  <data name="label2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;btncustomer.Name" xml:space="preserve">
+    <value>btncustomer</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>label4</value>
+  </data>
+  <data name="vATReportToolStripMenuItem.Text" xml:space="preserve">
+    <value>VAT Report</value>
+  </data>
+  <data name="toolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>262, 6</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem2.Name" xml:space="preserve">
+    <value>toolStripMenuItem2</value>
+  </data>
+  <data name="btncategories.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;btnexit.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btnacct.Name" xml:space="preserve">
+    <value>btnacct</value>
+  </data>
+  <data name="&gt;&gt;purchaseToolStripMenuItem.Name" xml:space="preserve">
+    <value>purchaseToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;ribbonButton7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RibbonButton, System.Windows.Forms.Ribbon, Version=2.0.0.0, Culture=neutral, PublicKeyToken=928736e248aa81f9</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ribbonButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        dAAAEnQB3mYfeAAAABpJREFUWEftwQEBAAAAgiD/r25IQAAAAMC5GhAgAAGdeElDAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="btncategories.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 175</value>
+  </data>
+  <data name="btnproducts.Text" xml:space="preserve">
+    <value>Products</value>
+  </data>
+  <data name="&gt;&gt;loguser.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ribbonButton2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RibbonButton, System.Windows.Forms.Ribbon, Version=2.0.0.0, Culture=neutral, PublicKeyToken=928736e248aa81f9</value>
+  </data>
+  <data name="btnsales.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="label3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>145, 20</value>
+  </data>
+  <data name="&gt;&gt;label5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;نسخاحتياطيToolStripMenuItem.Name" xml:space="preserve">
+    <value>نسخاحتياطيToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;categmenu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ribbonButton5.SmallImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        dAAAEnQB3mYfeAAAABNJREFUOE9jGAWjYBSMAjBgYAAABBAAAadEfGMAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="ribbonButton5.LargeImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        dAAAEnQB3mYfeAAAABpJREFUWEftwQEBAAAAgiD/r25IQAAAAMC5GhAgAAGdeElDAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="&gt;&gt;btncategories.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;categoryToolStripMenuItem.Name" xml:space="preserve">
+    <value>categoryToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;btnproducts.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="btnproducts.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="btncategories.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="categoryToolStripMenuItem.Text" xml:space="preserve">
+    <value>Categories</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="btnsettings.Text" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="btntools.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;btnacct.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolsToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="panelfooter.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10.2pt</value>
+  </data>
+  <data name="&gt;&gt;lbluser.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;vATReportToolStripMenuItem.Name" xml:space="preserve">
+    <value>vATReportToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;btncustomer.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;ribbonButton5.Name" xml:space="preserve">
+    <value>ribbonButton5</value>
+  </data>
+  <data name="ribbonButton6.SmallImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        dAAAEnQB3mYfeAAAABNJREFUOE9jGAWjYBSMAjBgYAAABBAAAadEfGMAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="panelfooter.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;categoryToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ribbonButton1.SmallImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        dAAAEnQB3mYfeAAAABNJREFUOE9jGAWjYBSMAjBgYAAABBAAAadEfGMAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="panel3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 31</value>
+  </data>
+  <data name="&gt;&gt;اشعارخصمToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label4.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;panel3.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btncustomer.Text" xml:space="preserve">
+    <value>Customers</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>RoiyaSoft: Ver 1:0</value>
+  </data>
+  <data name="&gt;&gt;ribbonButton5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RibbonButton, System.Windows.Forms.Ribbon, Version=2.0.0.0, Culture=neutral, PublicKeyToken=928736e248aa81f9</value>
+  </data>
+  <data name="&gt;&gt;exportToolStripMenuItem.Name" xml:space="preserve">
+    <value>exportToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;btnproducts.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 36</value>
+  </data>
+  <data name="btnacct.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 175</value>
+  </data>
+  <data name="&gt;&gt;label6.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;تقريرالجردوالمخزونToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="btnsales.Location" type="System.Drawing.Point, System.Drawing">
+    <value>551, 3</value>
+  </data>
+  <data name="menuStrip1.Text" xml:space="preserve">
+    <value>menuStripTop</value>
+  </data>
+  <data name="panel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>264, 756</value>
+  </data>
+  <data name="&gt;&gt;lbltrial.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="ribbonButton7.SmallImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        dAAAEnQB3mYfeAAAABNJREFUOE9jGAWjYBSMAjBgYAAABBAAAadEfGMAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="&gt;&gt;clearDataToolStripMenuItem.Name" xml:space="preserve">
+    <value>clearDataToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;customersSuppliersToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ribbonButton6.Name" xml:space="preserve">
+    <value>ribbonButton6</value>
+  </data>
+  <data name="label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="panel2.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="mainCategoriesToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>217, 26</value>
+  </data>
+  <data name="btnrep.Size" type="System.Drawing.Size, System.Drawing">
+    <value>251, 173</value>
+  </data>
+  <data name="btnrep.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;btnrep.Name" xml:space="preserve">
+    <value>btnrep</value>
+  </data>
+  <data name="&gt;&gt;استعادةالنسخالاحتياطيToolStripMenuItem.Name" xml:space="preserve">
+    <value>استعادةالنسخالاحتياطيToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;btncategories.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnrep.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="btnexit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>825, 387</value>
+  </data>
+  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>60, 169</value>
+  </data>
+  <data name="purchaseReportToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>275, 26</value>
+  </data>
+  <data name="purchaseReportToolStripMenuItem.Text" xml:space="preserve">
+    <value>Purchase Report</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="btnproducts.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;clearDataToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="purchaseToolStripMenuItem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.2pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;restoreToolStripMenuItem.Name" xml:space="preserve">
+    <value>restoreToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;salesByItemToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="panel2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="&gt;&gt;ribbonButton1.Name" xml:space="preserve">
+    <value>ribbonButton1</value>
+  </data>
+  <data name="&gt;&gt;productsToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnreturn.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageAboveText</value>
+  </data>
+  <data name="&gt;&gt;btntools.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;billsToolStripMenuItem.Name" xml:space="preserve">
+    <value>billsToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;استعادةالنسخالاحتياطيToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;exratemenu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnacct.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAMDAAAAEAIACoJQAAFgAAACgAAAAwAAAAYAAAAAEAIAAAAAAAACQAACMuAAAjLgAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v//////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ///MzMz/QkJC/zExMf8sLCz/Jycn/yIiIv8bGxv/ZmZm//v7+////////////////3H///8AAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v//////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////////////j4+P+Dg4P/Ojo6/zU1Nf8vLy//Kioq/yUlJf8gICD/mpqa////////////////////
+        /3H///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v//
+        ////////////////////////////////////////////////////////////////////////////////
+        /////////////////////////////7W1tf9MTEz/QEBA/zk5Of8zMzP/LS0t/ycnJ/84ODj/19fX////
+        /////////////////3H///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//
+        /wD///9J////+v//////////////////////////////////////////////////////////////////
+        ///////////////////////////////////+/v7/x8fH/2FhYf9KSkr/RUVF/z4+Pv83Nzf/MTEx/ygo
+        KP94eHj/+/v7/////////////////////3H///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAP///wD///9J////+v//////////////////////////////////////////////////
+        //////////////////////////////////////////////j4+P+8vLz/a2tr/1ZWVv9RUVH/SUlJ/0ND
+        Q/88PDz/NDQ0/z8/P//Ozs7//////////////////////////3H///8AAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v//////////////////////////////////
+        ///////////////////////////////////////////////////5+fn/2tra/5ycnP9sbGz/YmJi/1xc
+        XP9VVVX/Tk5O/0dHR/9AQED/ODg4/5GRkf/9/f3//////////////////////////3H///8AAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v//////////////////
+        /////////////////////////////////////////v7+//Pz8//t7e3/4uLi/83Nzf+srKz/h4eH/3Nz
+        c/9tbW3/Z2dn/2FhYf9aWlr/U1NT/0xMTP9CQkL/bW1t/+vr6///////////////////////////////
+        /3H///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v//
+        ////////////////////////////////////////////////////////+/v7/8vLy/+8vLz/tbW1/6mp
+        qf+bm5v/jIyM/319ff9ycnL/a2tr/2VlZf9fX1//WFhY/05OTv9mZmb/2dnZ////////////////////
+        /////////////////3H///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//
+        /wD///9J////+v//////////////////////////////////////////////////////////+/v7/83N
+        zf/AwMD/vr6+/7S0tP+np6f/mJiY/4iIiP95eXn/b29v/2lpaf9jY2P/XV1d/3Fxcf/U1NT/////////
+        /////////////////////////////////3H///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAP///wD///9J////+v//////////////////////////////////////////////////
+        ////////+/v7/83Nzf/AwMD/wcHB/7u7u/+wsLD/oqKi/5OTk/+Dg4P/dXV1/29vb/9lZWX/W1tb/8bG
+        xv///////////////////////////////////////////////3H///8AAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v//////////////////////////////////
+        ////////////////////////+/v7/83Nzf/AwMD/wcHB/8DAwP+4uLj/rKys/56env+QkJD/fX19/19f
+        X/84ODj/ISEh/05OTv+/v7///f39/////////////////////////////////////3H///8AAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v//////////////////
+        ////////////////////////////////////////+/v7/83Nzf/AwMD/wcHB/8LCwv/BwcH/tra2/5+f
+        n/92dnb/RERE/yMjI/8bGxv/HBwc/xkZGf8tLS3/m5ub//j4+P//////////////////////////////
+        /3H///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v//
+        ////////////////////////////////////////////////////////+/v7/9DPz//ExMP/xMTD/7Oz
+        sv+SkpL/Z2dn/zw8PP8hISH/Gxsb/xwcHP8cHBz/HBwc/xwcHP8aGhr/IiIi/4mJif/29vb/////////
+        /////////////////3H///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//
+        /wD///9J////+v///////////////////////////////////////////////////v/9/v3/8/T7/93e
+        7v/V1uz/2Njq/8PEzP+XmJf/YGBc/zAwL/8aGhr/Ghoa/xwcHP8cHBz/HBwc/xwcHP8cHBz/Gxsb/yAg
+        IP+MjIz/+vr6/////////////////////3H///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAP///wD///9J////+v/////////////////////////////////////+/v7/5OX7/6mp
+        +P9rbPf/QkP4/zAy+f8oKfv/Li/6/0NE+/9tbvr/oKHy/7q60v+Ojoz/PT07/xoaGv8bGxv/HBwc/xwc
+        HP8cHBz/HBwc/xsbG/8kJCT/paWl/////////////////////3H///8AAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v/////////////////////////////+/+fn
+        /P+Jivf/LS74/wYG+/8AAP3/AAD+/wAA/v8AAP7/AAD+/wAA/v8AAPz/Bgb7/y4v+/+Jifj/w8TY/3d3
+        dP8jIyP/Ghoa/xwcHP8cHBz/HBwc/xwcHP8aGhr/NDQ0/83Nzf///////////////3H///8AAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v//////////////////
+        ///+/v7/wMH4/z099/8DA/z/AAD+/wAA/f8KCvv/IyT6/zw8+f9FRfr/PDz5/yQk+v8KC/v/AAD9/wAA
+        /v8DA/z/PT75/7i58v+fn57/LCws/xoaGv8cHBz/HBwc/xwcHP8cHBz/GRkZ/19fX//y8vL/////////
+        /3H///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v//
+        //////////////7+/v+pqvf/HR73/wAA/f8AAP3/GRr5/2lq9/+2t/n/4OL7//Hy/P/29v3/8vL8/+Hi
+        +/+3uPn/amv3/xob+f8AAP3/AAD9/xwd+f+oqPj/qqqp/yoqKf8bGxv/HBwc/xwcHP8cHBz/HBwc/yAg
+        IP+qqqr//////////3H///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//
+        /wD///9J////+v/////////////+/7O0+P8ZGfj/AAD9/wMD/P9PT/f/ycr5//v8/f//////////////
+        ////////////////////////+/z9/8rL+f9RUvb/BAT7/wAA/v8YGfn/sLH3/5eXlP8fHx//HBwc/xwc
+        HP8cHBz/HBwc/xkZGf9QUFD/7+/v/////3H///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAP///wD///9J////+v//////////1tf6/ywt9/8AAP7/BQX7/21u9v/t7fz/////////
+        //////7/8fH9/9fY+//MzPv/19j7//Dw/f/+/v7////////////t7vz/cHH2/wUG+/8AAP3/Kyz4/8nK
+        7/9mZmP/GRkZ/xwcHP8cHBz/HBwc/xwcHP8iIiL/t7e3/////3H///8AAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v/////5+v3/ZWb2/wAA/f8AAP3/X2H3//Hx
+        /P///////////+bn+/+LjPf/PT34/xoa+f8REvr/Ghr5/zw8+P+Ki/f/5eX7////////////8fL8/2Nk
+        9v8AAPz/AAD9/2Vm+v/Dw8j/LS0t/xsbG/8cHBz/HBwc/xwcHP8YGBj/cnJy//r6+nHy8vIAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v/////DxPn/ExT4/wAA
+        /v8vMPj/3N37////////////y8z6/z5A9v8CA/r/AAD+/wAA/v8AAP7/AAD+/wAA/v8CAvz/PT33/8nK
+        +P////7//////9/f+/8yMvj/AAD+/xIS+v+8vfX/cXFu/xkZGf8cHBz/HBwc/xwcHP8aGhr/Pz8//8fH
+        x3GioqIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v//
+        /v9wcff/AAD9/wME+/+Wl/f////+///////Y2fv/MzT4/wAA/f8AAP7/AAD+/wAA/v8AAP7/AAD+/wAA
+        /v8AAP7/AAD9/zEy9//V1vn////+/////v+amvf/BAT7/wAA/f9xcfv/tra2/yEiIf8cHBz/HBwc/xwc
+        HP8bGxv/JiYm/3V1dXE8PDwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//
+        /wD///9J////+uvr/P8yM/j/AAD+/yco+P/g4fv///////n6/f9kZvb/AAD8/wAA/v8AAP7/AAD+/wAA
+        /f8AAP3/AAD+/wAA/v8AAP7/AAD+/wAA/f9hYvf/+fn9///////j4/v/KSr5/wAA/v8xMfv/zc7h/zw9
+        O/8aGhr/HBwc/xwcHP8cHBz/HR0d/ysrK3EcHBwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAP///wD///9J////+srL+v8SEvr/AAD+/1xd9//8/P7//////87P+v8XGPn/AAD+/wAA
+        /v8AAP3/LCz4/3h79/97fPj/Njb4/wAA/v8AAP7/AAD+/wAA/v8WFvn/y8z6///////9/f7/X2D4/wAA
+        /v8QEfv/wcLz/19fXP8ZGRn/HBwc/xwcHP8cHBz/HBwc/xsbG3EcHBwAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+q6v+f8FBfz/AAD9/4SF+P////7//////5ma
+        +f8BAfz/AAD+/wAA/v8AAP3/W1v3//39/v////7/b3D5/wAA/v8AAP7/AAD+/wAA/v8AAPz/lZb4////
+        //////7/iYr4/wAA/f8EBfz/rK35/3l5df8YGBj/HBwc/xwcHP8cHBz/HBwc/xwcHHEcHBwAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+pye+f8AAf3/AAD9/5qb
+        +v///////////31++f8AAP3/AAD+/wAA/v8AAP7/Wlv3//39/v//////b3D5/wAA/v8AAP7/AAD+/wAA
+        /v8AAP3/d3j5/////v//////nJ35/wEB/P8BAf3/oKH8/4iIhP8YGBj/HBwc/xwcHP8cHBz/HBwc/xwc
+        HHEcHBwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+p6g
+        +f8BAf3/AAD9/5iZ+f///////////3+A+P8AAPz/AAD+/wAA/v8AAP3/Wlv3//39/v//////b2/5/wAA
+        /v8AAP7/AAD+/wAA/v8AAP3/env5/////v//////mpv5/wAB/P8BAf3/oqL8/4eHg/8YGBj/HBwc/xwc
+        HP8cHBz/HBwc/xwcHHEcHBwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//
+        /wD///9J////+rK0+f8GB/z/AAD9/36A+P////7//////6Gi+f8DA/z/AAD+/wAA/v8AAP3/Wlv3//39
+        /v//////b3D5/wAA/v8AAP7/AAD+/wAA/v8CAvv/nZ74//////////7/g4T4/wAA/f8GBvz/sLH4/3V1
+        cf8YGBj/HBwc/xwcHP8cHBz/HBwc/xwcHHEcHBwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAP///wD///9J////+tDR+v8XFvr/AAD+/1JT9//5+v3//////9jZ+v8gIfn/AAD+/wAA
+        /v8AAP3/Wlv3//39/v//////b3D5/wAA/v8AAP7/AAD+/wAA/v8eHvn/1tf7///////6+/3/Vlb5/wAA
+        /v8UFfv/xMbx/1lZVv8ZGRn/HBwc/xwcHP8cHBz/HBwc/xsbG3EcHBwAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+vDw/f87O/j/AAD+/x4f+f/X2Pr///////39
+        /f95e/b/AQH7/wAA/v8AAP7/Wlv3//39/v//////b2/5/wAA/v8AAP7/AAD+/wAA/P92d/f//f39////
+        ///Z2vr/ICH5/wAA/v86Ovv/zM3b/zY2Nf8aGhr/HBwc/xwcHP8cHBz/Hh4e/zY2NnEeHh4AAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v///v9/gPj/AAD8/wAB
+        /P+DhPf////+///////n5/v/S0z3/wAA/P8AAP3/Wlv3//39/v//////b3D5/wAA/v8AAP7/AAD8/0lK
+        9v/l5fr////+/////v+Hh/f/AQH8/wAA/P9/f/v/q6uq/x4eHv8cHBz/HBwc/xwcHP8bGxv/KSkp/4aG
+        hnFLS0sAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v//
+        ///Q0vr/HR73/wAA/v8hIfn/zM36////////////4OH7/15g9v8HB/n/Wlr3//39/v//////b3D5/wAA
+        /f8JCvv/XF32/97f+v////7//////8/P+f8jI/n/AAD+/xwc+v/FxvH/YWFf/xkZGf8cHBz/HBwc/xwc
+        HP8ZGRn/R0dH/9TU1HG4uLgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//
+        /wD///9J////+v/////9/v7/e3v3/wEB/P8AAP3/R0j3/+Tk+/////////////b2/f+Agfb/W131//z9
+        /v//////bm/4/0BA9/+wsfj/8/T8////////////5eb7/0pK9/8AAPz/AAD8/3p7+f+3t7f/JiYl/xsb
+        G/8cHBz/HBwc/xwcHP8ZGRn/fn5+/////3H39/cAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAP///wD///9J////+v//////////5OT7/z4/9/8AAP3/AQH7/1BS9v/d3fv/////////
+        //+oqfj/Xl/1//39/v//////b3D4/5aW+f/////////////////e3/r/VFX2/wEB/P8AAPz/PT74/8/Q
+        6P9VVVP/GRkZ/xwcHP8cHBz/HBwc/xsbG/8mJib/w8PD/////3H///8AAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v///////////////8jJ+f8pKvf/AAD9/wAA
+        /f80Nff/rKz4//f3/P+pqfj/Xl72//39/v//////b3D4/5eX+v//////8/P8/62u+P82N/f/AQH8/wAA
+        /f8pKfn/wsP0/4SEgf8cHBz/HBwc/xwcHP8cHBz/HBwc/xkZGf9eXl7/9fX1/////3H///8AAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v//////////////////
+        /v/Cw/j/MTL3/wAA/P8AAP7/DAz6/0tM9/9XWfb/XV71//39/v//////b3D4/3Bx9/+Zmvj/Skr3/wwM
+        +/8AAP7/AAD8/zEy+P+8vfX/lZWT/yMjI/8bGxv/HBwc/xwcHP8cHBz/Gxsb/yYmJv+6urr/////////
+        /3H///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v//
+        //////////////////////7/1tf6/1pb9v8KCvr/AAD+/wAA/f8AAPz/Wlv3//39/v//////b3D5/wMD
+        +/8CAvz/AAD+/wAA/v8KCvv/W1z5/8TF6P+FhYL/IyMj/xsbG/8cHBz/HBwc/xwcHP8cHBz/GRkZ/3Jy
+        cv/4+Pj//////////3H///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//
+        /wD///9J////+v////////////////////////////////T0/f+rrPj/Skr4/xIS+f8AAPz/Wlv3//39
+        /v//////b3D5/wAA/f8BAfz/ExP7/0xN+/+lpfP/ubnB/1pbWP8dHR3/Gxsb/xwcHP8cHBz/HBwc/xwc
+        HP8ZGRn/QkJC/9zc3P///////////////3H///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAP///wD///9J////+v//////////////////////////////////////////9PT9/8nK
+        +v9jZfb/XFz2//39/v//////b3D4/z0++P+Nj/b/srPl/6+wuP9wcG3/Kysq/xkZGf8cHBz/HBwc/xwc
+        HP8cHBz/HBwc/xoaGv8uLi7/u7u7/////////////////////3H///8AAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v//////////////////////////////////
+        //////////////////+oqfj/Xl/1//39/v//////b3D4/5eZ+//b3NX/TExJ/yMjI/8ZGRn/Gxsb/xwc
+        HP8cHBz/HBwc/xwcHP8cHBz/Ghoa/ygoKP+mpqb//v7+/////////////////////3H///8AAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v//////////////////
+        //////////////////////////////////+nqPj/Xl72//39/v//////b3D4/5ia/f/Ky8b/IyMj/xsb
+        G/8cHBz/HBwc/xwcHP8cHBz/HBwc/xwcHP8ZGRn/LCws/6Wlpf/8/Pz/////////////////////////
+        /3H///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v//
+        //////////////////////////////////////////////////+nqPj/Xl72//39/v//////b3D4/5ia
+        /f/Ly8f/JSUl/xsbG/8cHBz/HBwc/xwcHP8cHBz/Gxsb/xkZGf8+Pj7/t7e3//39/f//////////////
+        /////////////////3H///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//
+        /wD///9J////+v////////////////////////////////////////////////////+nqPj/Xl/2//39
+        /v//////b3D4/5ia/f/Ly8f/JSUl/xsbG/8cHBz/HBwc/xwcHP8ZGRn/IiIi/2lpaf/Y2Nj/////////
+        /////////////////////////////////3H///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAP///wD///9J////+v//////////////////////////////////////////////////
+        //+nqPj/Xl72//39/v//////b3D4/5ia/f/Ly8f/JSUl/xsbG/8aGhr/GBgY/yIiIv9TU1P/sLCw//X1
+        9f///////////////////////////////////////////////3H///8AAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v//////////////////////////////////
+        //////////////////+nqPj/X1/1//39/v////7/cHH3/5ia/f/Ky8b/IyMj/yAgIP84ODj/a2tr/7W1
+        tf/w8PD//////////////////////////////////////////////////////////3H///8AAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v//////////////////
+        //////////////////////////////////+oqfj/Nzn1/5KT+P+Ulfj/QEH2/5ia+//j49//lJSU/7i4
+        uP/h4eH/+vr6////////////////////////////////////////////////////////////////////
+        /3H///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///9J////+v//
+        ///////////////////////////////////////////////////HyPj/WVr1/1ZX9/9XV/f/V1f3/7u8
+        +P//////////////////////////////////////////////////////////////////////////////
+        /////////////////3H///8AAAAAAAAAAAAAAAAAAAAAAAAAAAD8AAAAAD8AAPwAAAAAPwAA/AAAAAA/
+        AAD8AAAAAD8AAPwAAAAAPwAA/AAAAAA/AAD8AAAAAD8AAPwAAAAAPwAA/AAAAAA/AAD8AAAAAD8AAPwA
+        AAAAPwAA/AAAAAA/AAD8AAAAAD8AAPwAAAAAPwAA/AAAAAA/AAD8AAAAAD8AAPwAAAAAPwAA/AAAAAA/
+        AAD8AAAAAD8AAPwAAAAAPwAA/AAAAAA/AAD8AAAAAD8AAPwAAAAAPwAA/AAAAAA/AAD8AAAAAD8AAPwA
+        AAAAPwAA/AAAAAA/AAD8AAAAAD8AAPwAAAAAPwAA/AAAAAA/AAD8AAAAAD8AAPwAAAAAPwAA/AAAAAA/
+        AAD8AAAAAD8AAPwAAAAAPwAA/AAAAAA/AAD8AAAAAD8AAPwAAAAAPwAA/AAAAAA/AAD8AAAAAD8AAPwA
+        AAAAPwAA/AAAAAA/AAD8AAAAAD8AAPwAAAAAPwAA/AAAAAA/AAD8AAAAAD8AAPwAAAAAPwAA/AAAAAA/
+        AAA=
+</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Name" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="مسحالبياناتToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>302, 26</value>
+  </data>
+  <data name="btnreturn.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="lbltrial.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1084, 13</value>
+  </data>
+  <data name="&gt;&gt;prodmenu.Name" xml:space="preserve">
+    <value>prodmenu</value>
+  </data>
+  <data name="&gt;&gt;settingsmenu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btncategories.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="lbluser.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 20</value>
+  </data>
+  <data name="btnsales.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;panel3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="panel5.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="label3.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;ribbonButton3.Name" xml:space="preserve">
+    <value>ribbonButton3</value>
+  </data>
+  <data name="lbluser.Text" xml:space="preserve">
+    <value>مرحبا:</value>
+  </data>
+  <data name="&gt;&gt;اشعارخصمToolStripMenuItem.Name" xml:space="preserve">
+    <value>اشعارخصمToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;btnusers.Name" xml:space="preserve">
+    <value>btnusers</value>
+  </data>
+  <data name="&gt;&gt;ribbonButton4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RibbonButton, System.Windows.Forms.Ribbon, Version=2.0.0.0, Culture=neutral, PublicKeyToken=928736e248aa81f9</value>
+  </data>
+  <data name="&gt;&gt;btnexit.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btncustomer.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="استعادةالنسخالاحتياطيToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>302, 26</value>
+  </data>
+  <data name="الأدواتToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>14, 25</value>
+  </data>
+  <data name="&gt;&gt;ribbonTab1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RibbonTab, System.Windows.Forms.Ribbon, Version=2.0.0.0, Culture=neutral, PublicKeyToken=928736e248aa81f9</value>
+  </data>
+  <data name="btnreturn.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnproducts.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnsales.Text" xml:space="preserve">
+    <value>Sales</value>
+  </data>
+  <data name="الحساباتToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>14, 25</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;panel5.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
+    <value>pictureBox1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="categoryToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>115, 25</value>
+  </data>
+  <data name="&gt;&gt;btnusers.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 36</value>
+  </data>
+  <data name="categmenu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>265, 26</value>
+  </data>
+  <data name="deacustmenu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>265, 26</value>
+  </data>
+  <data name="label5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;تصديرToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;نسخاحتياطيToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnrep.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;prodmenu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tableLayoutPanel1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="&gt;&gt;ribbonButton7.Name" xml:space="preserve">
+    <value>ribbonButton7</value>
+  </data>
+  <data name="inventoryToolStripMenuItem.Text" xml:space="preserve">
+    <value>Sales</value>
+  </data>
+  <data name="&gt;&gt;timer1.Name" xml:space="preserve">
+    <value>timer1</value>
+  </data>
+  <data name="label6.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt, style=Bold</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>606, 9</value>
+  </data>
+  <data name="&gt;&gt;تقريرالجردوالمخزونToolStripMenuItem.Name" xml:space="preserve">
+    <value>تقريرالجردوالمخزونToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;salesByItemToolStripMenuItem.Name" xml:space="preserve">
+    <value>salesByItemToolStripMenuItem</value>
+  </data>
+  <data name="menuStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1406, 31</value>
+  </data>
+  <data name="btnrep.Text" xml:space="preserve">
+    <value>Reports</value>
+  </data>
+  <data name="&gt;&gt;الحساباتToolStripMenuItem.Name" xml:space="preserve">
+    <value>الحساباتToolStripMenuItem</value>
+  </data>
+  <data name="btnpurchase.Text" xml:space="preserve">
+    <value>Purchase</value>
+  </data>
+  <data name="&gt;&gt;deacustmenu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="billsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 26</value>
+  </data>
+  <data name="btnrep.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.2pt, style=Bold</value>
+  </data>
+  <data name="reportsToolStripMenuItem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.2pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;reportsToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btntools.Name" xml:space="preserve">
+    <value>btntools</value>
+  </data>
+  <data name="btnsettings.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="&gt;&gt;usersToolStripMenuItem.Name" xml:space="preserve">
+    <value>usersToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem4.Name" xml:space="preserve">
+    <value>toolStripMenuItem4</value>
+  </data>
+  <data name="ribbonButton4.SmallImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        dAAAEnQB3mYfeAAAABNJREFUOE9jGAWjYBSMAjBgYAAABBAAAadEfGMAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="&gt;&gt;panel5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnpurchase.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;ribbonPanel3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RibbonPanel, System.Windows.Forms.Ribbon, Version=2.0.0.0, Culture=neutral, PublicKeyToken=928736e248aa81f9</value>
+  </data>
+  <data name="exratemenu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>265, 26</value>
+  </data>
+  <data name="btnpurchase.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageAboveText</value>
+  </data>
+  <data name="&gt;&gt;importToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="usersToolStripMenuItem.Text" xml:space="preserve">
+    <value>Users</value>
+  </data>
+  <data name="&gt;&gt;categmenu.Name" xml:space="preserve">
+    <value>categmenu</value>
+  </data>
+  <data name="&gt;&gt;lbltrial.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>label5</value>
+  </data>
+  <data name="btnacct.Text" xml:space="preserve">
+    <value>Accounting</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tableLayoutPanel1.ColumnCount" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;purchaseReportToolStripMenuItem.Name" xml:space="preserve">
+    <value>purchaseReportToolStripMenuItem</value>
+  </data>
+  <data name="btntools.Location" type="System.Drawing.Point, System.Drawing">
+    <value>551, 387</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnpurchase.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.2pt</value>
+  </data>
+  <data name="prodmenu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>265, 26</value>
+  </data>
+  <data name="btnexit.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;panel2.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;settingsmenu.Name" xml:space="preserve">
+    <value>settingsmenu</value>
+  </data>
+  <data name="btnsettings.Location" type="System.Drawing.Point, System.Drawing">
+    <value>277, 387</value>
+  </data>
+  <data name="&gt;&gt;فاتورةمشترياتToolStripMenuItem.Name" xml:space="preserve">
+    <value>فاتورةمشترياتToolStripMenuItem</value>
+  </data>
+  <data name="btnproducts.Location" type="System.Drawing.Point, System.Drawing">
+    <value>277, 3</value>
+  </data>
+  <data name="الدفعاتToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 26</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label5.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btnrep.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="restoreToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>224, 26</value>
+  </data>
+  <data name="أرصدةالحساباتToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>275, 26</value>
+  </data>
+  <data name="label5.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="productsToolStripMenuItem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.2pt, style=Bold</value>
+  </data>
+  <data name="importToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 26</value>
+  </data>
+  <data name="reportsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>91, 25</value>
+  </data>
+  <data name="&gt;&gt;accountingToolStripMenuItem.Name" xml:space="preserve">
+    <value>accountingToolStripMenuItem</value>
+  </data>
+  <data name="btnacct.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;btnsales.Name" xml:space="preserve">
+    <value>btnsales</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="salesByItemToolStripMenuItem.Text" xml:space="preserve">
+    <value>Sales By Item Report</value>
+  </data>
+  <data name="panel3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1142, 70</value>
+  </data>
+  <data name="&gt;&gt;أرصدةالحساباتToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="panelfooter.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 787</value>
+  </data>
+  <data name="btnreturn.Text" xml:space="preserve">
+    <value>Return</value>
+  </data>
+  <data name="&gt;&gt;btnpurchase.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;btnsettings.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="usersToolStripMenuItem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.2pt, style=Bold</value>
+  </data>
+  <data name="panel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1142, 31</value>
+  </data>
+  <data name="&gt;&gt;العملاءالموردونToolStripMenuItem.Name" xml:space="preserve">
+    <value>العملاءالموردونToolStripMenuItem</value>
+  </data>
+  <data name="purchaseToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>109, 25</value>
+  </data>
+  <data name="lbluser.Location" type="System.Drawing.Point, System.Drawing">
+    <value>192, 9</value>
+  </data>
+  <data name="inventoryToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>69, 25</value>
+  </data>
+  <data name="loguser.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btncustomer.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageAboveText</value>
+  </data>
+  <data name="pictureBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;purchaseToolStripMenuItem1.Name" xml:space="preserve">
+    <value>purchaseToolStripMenuItem1</value>
+  </data>
+  <data name="label6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>label6</value>
+  </data>
+  <data name="mainCategoriesToolStripMenuItem.Text" xml:space="preserve">
+    <value>Main Category</value>
+  </data>
+  <data name="&gt;&gt;importToolStripMenuItem.Name" xml:space="preserve">
+    <value>importToolStripMenuItem</value>
+  </data>
+  <data name="btncustomer.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="backupToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>224, 26</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>frmAdminDashboard</value>
+  </data>
+  <data name="&gt;&gt;حركةحسابToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnsettings.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 177</value>
+  </data>
+  <data name="&gt;&gt;btnproducts.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btntools.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="اشعارخصمToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 26</value>
+  </data>
+  <data name="&gt;&gt;panel2.Name" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="btncustomer.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 175</value>
+  </data>
+  <data name="&gt;&gt;ribbonPanel4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RibbonPanel, System.Windows.Forms.Ribbon, Version=2.0.0.0, Culture=neutral, PublicKeyToken=928736e248aa81f9</value>
+  </data>
+  <data name="toolStripMenuItem2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 25</value>
+  </data>
+  <data name="&gt;&gt;subCategoriesToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="panelfooter.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="&gt;&gt;استيرادToolStripMenuItem.Name" xml:space="preserve">
+    <value>استيرادToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;usersToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="panel5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 101</value>
+  </data>
+  <data name="loguser.Location" type="System.Drawing.Point, System.Drawing">
+    <value>57, 9</value>
+  </data>
+  <data name="&gt;&gt;btntools.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btntools.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="tableLayoutPanel1.RowCount" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btncustomer.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="label5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnexit.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageAboveText</value>
+  </data>
+  <data name="&gt;&gt;btnsettings.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnusers.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 177</value>
+  </data>
+  <data name="lbluser.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnpurchase.Size" type="System.Drawing.Size, System.Drawing">
+    <value>251, 175</value>
+  </data>
+  <data name="&gt;&gt;lbltrial.Parent" xml:space="preserve">
+    <value>panelfooter</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Name" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="vATReportToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>275, 26</value>
+  </data>
+  <data name="ribbonButton2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        dAAAEnQB3mYfeAAAABpJREFUWEftwQEBAAAAgiD/r25IQAAAAMC5GhAgAAGdeElDAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="categoryToolStripMenuItem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.2pt, style=Bold</value>
+  </data>
+  <data name="btnexit.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="&gt;&gt;مسحالبياناتToolStripMenuItem.Name" xml:space="preserve">
+    <value>مسحالبياناتToolStripMenuItem</value>
+  </data>
+  <data name="btntools.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 177</value>
+  </data>
+  <data name="&gt;&gt;inventoryToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="تقريرالجردوالمخزونToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>275, 26</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="btnacct.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 195</value>
+  </data>
+  <data name="&gt;&gt;transactionsToolStripMenuItem1.Name" xml:space="preserve">
+    <value>transactionsToolStripMenuItem1</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="productsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 25</value>
+  </data>
+  <data name="&gt;&gt;label6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;حركةحسابToolStripMenuItem.Name" xml:space="preserve">
+    <value>حركةحسابToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;purchaseToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="purchaseToolStripMenuItem1.Text" xml:space="preserve">
+    <value>Purchase</value>
+  </data>
+  <data name="btncategories.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageAboveText</value>
+  </data>
+  <data name="toolStripMenuItem4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>265, 26</value>
+  </data>
+  <data name="panel5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>63, 686</value>
+  </data>
+  <data name="clearDataToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>224, 26</value>
+  </data>
+  <data name="ribbonButton7.LargeImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        dAAAEnQB3mYfeAAAABpJREFUWEftwQEBAAAAgiD/r25IQAAAAMC5GhAgAAGdeElDAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="&gt;&gt;exportToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;btnreturn.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;backupToolStripMenuItem.Name" xml:space="preserve">
+    <value>backupToolStripMenuItem</value>
+  </data>
+  <data name="ribbonPanel2.Text" xml:space="preserve">
+    <value>ribbonPanel2</value>
+  </data>
+  <data name="&gt;&gt;lbltrial.Name" xml:space="preserve">
+    <value>lbltrial</value>
+  </data>
+  <data name="btnrep.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageAboveText</value>
+  </data>
+  <data name="&gt;&gt;btnrep.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="issueToolStripMenuItem.Text" xml:space="preserve">
+    <value>Return</value>
+  </data>
+  <data name="&gt;&gt;العملاءالموردونToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>panelfooter</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="creditNoteToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 26</value>
+  </data>
+  <data name="&gt;&gt;btnrep.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel5.Name" xml:space="preserve">
+    <value>panel5</value>
+  </data>
+  <data name="&gt;&gt;btnsettings.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;الدفعاتToolStripMenuItem.Name" xml:space="preserve">
+    <value>الدفعاتToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;مسحالبياناتToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnusers.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 387</value>
+  </data>
+  <data name="&gt;&gt;btnreturn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;creditNoteToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;exratemenu.Name" xml:space="preserve">
+    <value>exratemenu</value>
+  </data>
+  <data name="btnreturn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>277, 195</value>
+  </data>
+  <data name="btncategories.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1406, 832</value>
+  </data>
+  <data name="loguser.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>161, 208</value>
+  </data>
+  <data name="&gt;&gt;panelfooter.Name" xml:space="preserve">
+    <value>panelfooter</value>
+  </data>
+  <data name="&gt;&gt;issueToolStripMenuItem.Name" xml:space="preserve">
+    <value>issueToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;lbluser.Parent" xml:space="preserve">
+    <value>panelfooter</value>
+  </data>
+  <data name="&gt;&gt;btnpurchase.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 409</value>
+  </data>
+  <data name="&gt;&gt;panel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolsToolStripMenuItem.Name" xml:space="preserve">
+    <value>toolsToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;panelfooter.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="loguser.Text" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;loguser.Parent" xml:space="preserve">
+    <value>panelfooter</value>
+  </data>
+  <data name="&gt;&gt;label5.Name" xml:space="preserve">
+    <value>label5</value>
+  </data>
+  <data name="&gt;&gt;billsToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label4.Name" xml:space="preserve">
+    <value>label4</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="حركةحسابToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>275, 26</value>
+  </data>
+  <data name="btncustomer.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnsales.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnusers.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageAboveText</value>
+  </data>
+  <data name="pictureBox1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;ribbonPanel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RibbonPanel, System.Windows.Forms.Ribbon, Version=2.0.0.0, Culture=neutral, PublicKeyToken=928736e248aa81f9</value>
+  </data>
+  <data name="&gt;&gt;أرصدةالحساباتToolStripMenuItem.Name" xml:space="preserve">
+    <value>أرصدةالحساباتToolStripMenuItem</value>
+  </data>
+  <data name="btnpurchase.Location" type="System.Drawing.Point, System.Drawing">
+    <value>825, 3</value>
+  </data>
+  <data name="btnproducts.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 175</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="panel3.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;backupToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;reportsToolStripMenuItem.Name" xml:space="preserve">
+    <value>reportsToolStripMenuItem</value>
+  </data>
+  <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>60, 46</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="tableLayoutPanel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1079, 567</value>
+  </data>
+  <data name="ribbonButton7.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        dAAAEnQB3mYfeAAAABpJREFUWEftwQEBAAAAgiD/r25IQAAAAMC5GhAgAAGdeElDAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="&gt;&gt;الأدواتToolStripMenuItem.Name" xml:space="preserve">
+    <value>الأدواتToolStripMenuItem</value>
+  </data>
+  <data name="purchaseToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>172, 26</value>
+  </data>
+  <data name="&gt;&gt;lbluser.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ribbonButton2.LargeImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        dAAAEnQB3mYfeAAAABpJREFUWEftwQEBAAAAgiD/r25IQAAAAMC5GhAgAAGdeElDAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="settingsmenu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>265, 26</value>
+  </data>
+  <data name="فاتورةمشترياتToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 26</value>
+  </data>
+  <data name="btntools.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageAboveText</value>
+  </data>
+  <data name="loguser.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem1.Name" xml:space="preserve">
+    <value>toolStripMenuItem1</value>
+  </data>
+  <data name="lbltrial.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="label6.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;purchaseReportToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btntools.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="lbltrial.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="menuStrip1.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>9, 3, 0, 3</value>
+  </data>
+  <data name="transactionsToolStripMenuItem1.Text" xml:space="preserve">
+    <value>Daily Sales Report</value>
+  </data>
+  <data name="groupBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btnrep.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="btnproducts.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageAboveText</value>
+  </data>
+  <data name="&gt;&gt;panelfooter.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="ribbonButton3.LargeImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        dAAAEnQB3mYfeAAAABpJREFUWEftwQEBAAAAgiD/r25IQAAAAMC5GhAgAAGdeElDAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="&gt;&gt;ribbonButton6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RibbonButton, System.Windows.Forms.Ribbon, Version=2.0.0.0, Culture=neutral, PublicKeyToken=928736e248aa81f9</value>
+  </data>
+  <data name="&gt;&gt;ribbonButton4.Name" xml:space="preserve">
+    <value>ribbonButton4</value>
+  </data>
+  <data name="&gt;&gt;label6.Name" xml:space="preserve">
+    <value>label6</value>
+  </data>
+  <data name="btnsales.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 175</value>
+  </data>
+  <data name="label6.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btncategories.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="toolsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>14, 25</value>
+  </data>
+  <data name="btncustomer.Location" type="System.Drawing.Point, System.Drawing">
+    <value>551, 195</value>
+  </data>
+  <data name="btnacct.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>ar</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>152, 17</value>
+  </metadata>
+</root>

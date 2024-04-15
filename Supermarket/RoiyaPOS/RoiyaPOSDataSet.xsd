@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="supermarketDataSet" targetNamespace="http://tempuri.org/supermarketDataSet.xsd" xmlns:mstns="http://tempuri.org/supermarketDataSet.xsd" xmlns="http://tempuri.org/supermarketDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="supermarketConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="supermarketConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.supermarket.Properties.Settings.GlobalReference.Default.supermarketConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tbl_productsTableAdapter" GeneratorDataComponentClassName="tbl_productsTableAdapter" Name="tbl_products" UserDataComponentName="tbl_productsTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="supermarketConnectionString (Settings)" DbObjectName="supermarket.tbl_products" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `id`, `name`, `category`, `description`, `rate`, `qty`, `added_date`, `added_by` FROM `tbl_products`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="supermarketDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="supermarketDataSet" msprop:Generator_UserDSName="supermarketDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tbl_products" msprop:Generator_TableClassName="tbl_productsDataTable" msprop:Generator_TableVarName="tabletbl_products" msprop:Generator_TablePropName="tbl_products" msprop:Generator_RowDeletingName="tbl_productsRowDeleting" msprop:Generator_RowChangingName="tbl_productsRowChanging" msprop:Generator_RowEvHandlerName="tbl_productsRowChangeEventHandler" msprop:Generator_RowDeletedName="tbl_productsRowDeleted" msprop:Generator_UserTableName="tbl_products" msprop:Generator_RowChangedName="tbl_productsRowChanged" msprop:Generator_RowEvArgName="tbl_productsRowChangeEvent" msprop:Generator_RowClassName="tbl_productsRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

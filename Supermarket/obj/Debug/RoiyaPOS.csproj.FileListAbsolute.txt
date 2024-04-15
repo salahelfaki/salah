@@ -1,0 +1,1515 @@
+C:\RoiyaPOS\supermarket\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\RoiyaPOS\supermarket\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\RoiyaPOS\supermarket\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\RoiyaPOS\supermarket\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\RoiyaPOS\supermarket\bin\Debug\RoiyaPOS.exe.config
+C:\RoiyaPOS\supermarket\bin\Debug\RoiyaPOS.exe.manifest
+C:\RoiyaPOS\supermarket\bin\Debug\RoiyaPOS.application
+C:\RoiyaPOS\supermarket\bin\Debug\RoiyaPOS.exe
+C:\RoiyaPOS\supermarket\bin\Debug\RoiyaPOS.pdb
+C:\RoiyaPOS\supermarket\bin\Debug\ar-SA\RoiyaPOS.resources.dll
+C:\RoiyaPOS\supermarket\bin\Debug\ar\RoiyaPOS.resources.dll
+C:\RoiyaPOS\supermarket\bin\Debug\en\RoiyaPOS.resources.dll
+C:\RoiyaPOS\supermarket\bin\Debug\aa-ER\RoiyaPOS.resources.dll
+C:\RoiyaPOS\supermarket\bin\Debug\AxShockwaveFlashObjects.dll
+C:\RoiyaPOS\supermarket\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\RoiyaPOS\supermarket\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\RoiyaPOS\supermarket\bin\Debug\CrystalDecisions.Shared.dll
+C:\RoiyaPOS\supermarket\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\RoiyaPOS\supermarket\bin\Debug\CsvHelper.dll
+C:\RoiyaPOS\supermarket\bin\Debug\EntityFramework.dll
+C:\RoiyaPOS\supermarket\bin\Debug\EntityFramework.SqlServer.dll
+C:\RoiyaPOS\supermarket\bin\Debug\IronBarCode.dll
+C:\RoiyaPOS\supermarket\bin\Debug\MessagingToolkit.QRCode.dll
+C:\RoiyaPOS\supermarket\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\RoiyaPOS\supermarket\bin\Debug\QRCoder.dll
+C:\RoiyaPOS\supermarket\bin\Debug\System.Buffers.dll
+C:\RoiyaPOS\supermarket\bin\Debug\System.Data.SQLite.dll
+C:\RoiyaPOS\supermarket\bin\Debug\System.Data.SQLite.EF6.dll
+C:\RoiyaPOS\supermarket\bin\Debug\System.Data.SQLite.Linq.dll
+C:\RoiyaPOS\supermarket\bin\Debug\System.Memory.dll
+C:\RoiyaPOS\supermarket\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\RoiyaPOS\supermarket\bin\Debug\System.ValueTuple.dll
+C:\RoiyaPOS\supermarket\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\RoiyaPOS\supermarket\bin\Debug\ShockwaveFlashObjects.dll
+C:\RoiyaPOS\supermarket\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\RoiyaPOS\supermarket\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\RoiyaPOS\supermarket\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\RoiyaPOS\supermarket\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\RoiyaPOS\supermarket\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\RoiyaPOS\supermarket\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\RoiyaPOS\supermarket\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\RoiyaPOS\supermarket\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\RoiyaPOS\supermarket\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\RoiyaPOS\supermarket\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\RoiyaPOS\supermarket\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\RoiyaPOS\supermarket\bin\Debug\stdole.dll
+C:\RoiyaPOS\supermarket\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\RoiyaPOS\supermarket\bin\Debug\CsvHelper.xml
+C:\RoiyaPOS\supermarket\bin\Debug\EntityFramework.xml
+C:\RoiyaPOS\supermarket\bin\Debug\EntityFramework.SqlServer.xml
+C:\RoiyaPOS\supermarket\bin\Debug\IronBarCode.xml
+C:\RoiyaPOS\supermarket\bin\Debug\System.Buffers.xml
+C:\RoiyaPOS\supermarket\bin\Debug\System.Data.SQLite.xml
+C:\RoiyaPOS\supermarket\bin\Debug\System.Memory.xml
+C:\RoiyaPOS\supermarket\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.csproj.AssemblyReference.cache
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmClsEncryption.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmdailysales.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmdeacust.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.frmAdminDashboard.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmcategories.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmimport.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frminventory.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmissue.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmitems.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmitemsalerep.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.FrmLicense.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmlogin.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmMain.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmproducts.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmpurchase.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmpurchaserep.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmrep.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmreturn.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmsales.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmsalesview.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmsettings.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmStockrep.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.frmUserdashboard.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.Properties.Resources.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmUsers.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmvatrep.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.language.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.printorders.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.tablelayout.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmsubcat.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.frmAdminDashboard.ar-SA.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.frmAdminDashboard.ar.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.frmAdminDashboard.en.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmcategories.en.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmdailysales.en.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmdeacust.en.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmitemsalerep.en.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmlogin.ar.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmlogin.en.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmproducts.en.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmpurchase.en.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmpurchaserep.aa-ER.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmpurchaserep.en.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmrep.en.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmreturn.en.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmsales.en.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmsalesview.en.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmsettings.en.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmStockrep.en.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.frmUserdashboard.ar-SA.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.frmUserdashboard.ar.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.frmUserdashboard.en.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmvatrep.en.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.UI.frmsubcat.en.resources
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.csproj.GenerateResource.cache
+C:\RoiyaPOS\supermarket\obj\Debug\RdlCompile.cache
+C:\RoiyaPOS\supermarket\obj\Debug\RdlCompile.compiled
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.csproj.CoreCompileInputs.cache
+C:\RoiyaPOS\supermarket\obj\Debug\ar-SA\RoiyaPOS.resources.dll
+C:\RoiyaPOS\supermarket\obj\Debug\ar\RoiyaPOS.resources.dll
+C:\RoiyaPOS\supermarket\obj\Debug\en\RoiyaPOS.resources.dll
+C:\RoiyaPOS\supermarket\obj\Debug\aa-ER\RoiyaPOS.resources.dll
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.exe.manifest
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.application
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.csproj.CopyComplete
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.exe
+C:\RoiyaPOS\supermarket\obj\Debug\RoiyaPOS.pdb
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\x86\sqlite3.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\x64\sqlite3.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\RoiyaPOS.exe.config
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\RoiyaPOS.exe.manifest
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\RoiyaPOS.application
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\RoiyaPOS.exe
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\RoiyaPOS.pdb
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\ar\RoiyaPOS.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\en\RoiyaPOS.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\ar-SA\RoiyaPOS.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\aa-ER\RoiyaPOS.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\netstandard.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.AppContext.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Collections.Concurrent.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Collections.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Collections.NonGeneric.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Collections.Specialized.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.ComponentModel.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.ComponentModel.Primitives.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Console.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Data.Common.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.Contracts.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.Debug.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.Process.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.Tools.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.Tracing.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Drawing.Primitives.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Dynamic.Runtime.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Globalization.Calendars.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Globalization.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Globalization.Extensions.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.Compression.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.FileSystem.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.IsolatedStorage.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.Pipes.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Linq.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Linq.Expressions.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Linq.Parallel.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Linq.Queryable.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.Http.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.NameResolution.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.NetworkInformation.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.Ping.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.Primitives.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.Requests.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.Security.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.Sockets.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.WebSockets.Client.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.WebSockets.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.ObjectModel.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Reflection.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Reflection.Extensions.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Reflection.Primitives.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Resources.Reader.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Resources.ResourceManager.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Resources.Writer.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Extensions.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Handles.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.InteropServices.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Numerics.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Claims.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Principal.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.SecureString.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Text.Encoding.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Text.RegularExpressions.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.Overlapped.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.Tasks.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.Thread.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.ThreadPool.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.Timer.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.ValueTuple.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Xml.ReaderWriter.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Xml.XDocument.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Xml.XmlDocument.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Xml.XmlSerializer.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Xml.XPath.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\AxShockwaveFlashObjects.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\BarcodeStandard.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.Shared.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\CsvHelper.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\Dapper.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\EntityFramework.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\IronBarCode.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\MessagingToolkit.QRCode.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\QRCoder.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Buffers.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Data.SQLite.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Drawing.Common.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Memory.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\ShockwaveFlashObjects.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\EnvDTE.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\stdole.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Numerics.Vectors.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.MSXML.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\CsvHelper.xml
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\Dapper.xml
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\EntityFramework.xml
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\IronBarCode.xml
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Buffers.xml
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Data.SQLite.xml
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Drawing.Common.xml
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Memory.xml
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.exe.config
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.e_invoice.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmaccounting.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmacctbalrep.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmaccttrep.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmbackup.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmbarcode.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcleardata.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmClsEncryption.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcreditnote.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdailysales.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdayclose.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdeacust.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmAdminDashboard.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcategories.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdexpense.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmimport.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frminventory.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmissue.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmitems.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmitemsalerep.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.FrmLicense.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmlogin.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmMain.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmmexpense.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpayment.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmprntA4.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmproducts.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchase.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaserep.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaseStock.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmrep.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmrestore.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmreturn.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsales.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsalesview.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsettings.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmStockrep.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmtools.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmUserdashboard.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.Properties.Resources.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmUsers.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmvatrep.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.language.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.printorders.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.tablelayout.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsubcat.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmaccounting.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmacctbalrep.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmaccttrep.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmaccttrep.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcategories.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcleardata.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcleardata.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmAdminDashboard.ar-SA.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmAdminDashboard.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmAdminDashboard.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcategories.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcreditnote.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdailysales.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdailysales.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdayclose.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdeacust.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdeacust.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdexpense.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdexpense.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmitemsalerep.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmitemsalerep.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmlogin.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmlogin.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmmexpense.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmmexpense.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpayment.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpayment.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmproducts.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmproducts.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchase.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchase.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaserep.aa-ER.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaserep.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaseStock.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaseStock.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmrep.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmrep.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmreturn.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmreturn.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsales.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsales.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsalesview.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsalesview.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsettings.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsettings.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmStockrep.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmtools.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmtools.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmUserdashboard.ar-SA.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmUserdashboard.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmUserdashboard.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmUsers.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmUsers.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmvatrep.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmvatrep.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsubcat.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.csproj.GenerateResource.cache
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RdlCompile.cache
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RdlCompile.compiled
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.csproj.CoreCompileInputs.cache
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\ar\RoiyaPOS.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\en\RoiyaPOS.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\ar-SA\RoiyaPOS.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\aa-ER\RoiyaPOS.resources.dll
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.exe.manifest
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.application
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.csproj.CopyComplete
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.exe
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.pdb
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.csproj.AssemblyReference.cache
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchasereturn.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchasereturn.ar.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchasereturn.en.resources
+C:\SQLITE Soft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmitemtr.resources
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\x86\sqlite3.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\x64\sqlite3.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\RoiyaPOS.exe.config
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\RoiyaPOS.exe.manifest
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\RoiyaPOS.application
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\RoiyaPOS.exe
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\RoiyaPOS.pdb
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\ar\RoiyaPOS.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\en\RoiyaPOS.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\ar-SA\RoiyaPOS.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\aa-ER\RoiyaPOS.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\netstandard.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.AppContext.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Collections.Concurrent.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Collections.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Collections.NonGeneric.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Collections.Specialized.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.ComponentModel.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.ComponentModel.Primitives.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Console.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Data.Common.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.Contracts.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.Debug.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.Process.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.Tools.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.Tracing.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Drawing.Primitives.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Dynamic.Runtime.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Globalization.Calendars.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Globalization.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Globalization.Extensions.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.Compression.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.FileSystem.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.IsolatedStorage.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.Pipes.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Linq.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Linq.Expressions.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Linq.Parallel.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Linq.Queryable.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.Http.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.NameResolution.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.NetworkInformation.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.Ping.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.Primitives.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.Requests.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.Security.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.Sockets.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.WebSockets.Client.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.WebSockets.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.ObjectModel.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Reflection.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Reflection.Extensions.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Reflection.Primitives.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Resources.Reader.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Resources.ResourceManager.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Resources.Writer.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Extensions.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Handles.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.InteropServices.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Numerics.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Claims.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Principal.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.SecureString.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Text.Encoding.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Text.RegularExpressions.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.Overlapped.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.Tasks.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.Thread.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.ThreadPool.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.Timer.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.ValueTuple.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Xml.ReaderWriter.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Xml.XDocument.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Xml.XmlDocument.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Xml.XmlSerializer.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Xml.XPath.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\AxShockwaveFlashObjects.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\BarcodeStandard.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.Shared.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\CsvHelper.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\Dapper.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\EntityFramework.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\IronBarCode.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\MessagingToolkit.QRCode.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\QRCoder.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Buffers.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Data.SQLite.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Drawing.Common.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Memory.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\ShockwaveFlashObjects.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\EnvDTE.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\stdole.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Numerics.Vectors.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.MSXML.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\CsvHelper.xml
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\Dapper.xml
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\EntityFramework.xml
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\IronBarCode.xml
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Buffers.xml
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Data.SQLite.xml
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Drawing.Common.xml
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Memory.xml
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.exe.config
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmitemtr.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchasereturn.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.e_invoice.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmaccounting.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmacctbalrep.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmaccttrep.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmbackup.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmbarcode.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcleardata.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmClsEncryption.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcreditnote.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdailysales.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdayclose.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdeacust.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmAdminDashboard.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcategories.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdexpense.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmimport.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frminventory.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmissue.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmitems.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmitemsalerep.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.FrmLicense.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmlogin.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmMain.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmmexpense.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpayment.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmprntA4.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmproducts.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchase.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaserep.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaseStock.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmrep.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmrestore.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmreturn.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsales.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsalesview.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsettings.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmStockrep.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmtools.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmUserdashboard.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.Properties.Resources.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmUsers.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmvatrep.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.language.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.printorders.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.tablelayout.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsubcat.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchasereturn.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchasereturn.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmaccounting.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmacctbalrep.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmaccttrep.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmaccttrep.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcategories.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcleardata.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcleardata.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmAdminDashboard.ar-SA.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmAdminDashboard.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmAdminDashboard.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcategories.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcreditnote.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdailysales.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdailysales.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdayclose.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdeacust.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdeacust.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdexpense.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdexpense.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmitemsalerep.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmitemsalerep.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmlogin.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmlogin.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmmexpense.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmmexpense.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpayment.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpayment.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmproducts.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmproducts.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchase.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchase.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaserep.aa-ER.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaserep.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaseStock.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaseStock.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmrep.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmrep.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmreturn.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmreturn.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsales.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsales.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsalesview.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsalesview.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsettings.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsettings.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmStockrep.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmtools.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmtools.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmUserdashboard.ar-SA.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmUserdashboard.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmUserdashboard.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmUsers.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmUsers.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmvatrep.ar.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmvatrep.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsubcat.en.resources
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.csproj.GenerateResource.cache
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RdlCompile.cache
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RdlCompile.compiled
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.csproj.CoreCompileInputs.cache
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\ar\RoiyaPOS.resources.dll
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\en\RoiyaPOS.resources.dll
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\ar-SA\RoiyaPOS.resources.dll
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\aa-ER\RoiyaPOS.resources.dll
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.exe.manifest
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.application
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.csproj.CopyComplete
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.exe
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.pdb
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.csproj.AssemblyReference.cache
+C:\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaserep.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\x86\sqlite3.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\x64\sqlite3.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\Installer.cs
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\Installer.Designer.cs
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\App.config
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\RoiyaPOS.exe.config
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\RoiyaPOS.exe.manifest
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\RoiyaPOS.application
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\RoiyaPOS.exe
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\RoiyaPOS.pdb
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\ar\RoiyaPOS.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\en\RoiyaPOS.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\ar-SA\RoiyaPOS.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\aa-ER\RoiyaPOS.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\netstandard.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.AppContext.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Collections.Concurrent.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Collections.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Collections.NonGeneric.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Collections.Specialized.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.ComponentModel.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.ComponentModel.Primitives.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Console.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Data.Common.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.Contracts.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.Debug.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.Process.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.Tools.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.Tracing.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Drawing.Primitives.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Dynamic.Runtime.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Globalization.Calendars.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Globalization.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Globalization.Extensions.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.Compression.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.FileSystem.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.IsolatedStorage.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.Pipes.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Linq.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Linq.Expressions.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Linq.Parallel.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Linq.Queryable.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.Http.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.NameResolution.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.NetworkInformation.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.Ping.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.Primitives.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.Requests.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.Security.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.Sockets.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.WebSockets.Client.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.WebSockets.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.ObjectModel.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Reflection.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Reflection.Extensions.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Reflection.Primitives.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Resources.Reader.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Resources.ResourceManager.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Resources.Writer.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Extensions.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Handles.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.InteropServices.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Numerics.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Claims.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Principal.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.SecureString.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Text.Encoding.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Text.RegularExpressions.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.Overlapped.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.Tasks.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.Thread.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.ThreadPool.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.Timer.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.ValueTuple.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Xml.ReaderWriter.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Xml.XDocument.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Xml.XmlDocument.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Xml.XmlSerializer.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Xml.XPath.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\AxShockwaveFlashObjects.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\BarcodeStandard.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.Shared.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\CsvHelper.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\Dapper.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\EntityFramework.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\IronBarCode.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\MessagingToolkit.QRCode.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\QRCoder.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Buffers.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Configuration.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Configuration.Install.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Data.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Data.SQLite.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Drawing.Common.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Memory.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\zxing.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\zxing.presentation.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\ShockwaveFlashObjects.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\EnvDTE.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\stdole.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Numerics.Vectors.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.MSXML.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\CsvHelper.xml
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\Dapper.xml
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\EntityFramework.xml
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\IronBarCode.xml
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Buffers.xml
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Data.SQLite.xml
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Drawing.Common.xml
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Memory.xml
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\zxing.xml
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\zxing.presentation.xml
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.csproj.AssemblyReference.cache
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.exe.config
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.csproj.ResolveComReference.cache
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.connect.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmbillview.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcurrsession.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frminvoiceview.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmitempurchaserep.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmitemtr.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchasereturn.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaseretview.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaseview.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsalesrep.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsession.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsessionclose.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.e_invoice.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmaccounting.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmacctbalrep.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmaccttrep.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmbackup.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmbarcode.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcleardata.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmClsEncryption.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcreditnote.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdailysales.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdayclose.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdeacust.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmAdminDashboard.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcategories.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdexpense.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmimport.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frminventory.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmissue.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmitems.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmitemsalerep.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.FrmLicense.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmlogin.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmMain.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmmexpense.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpayment.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmprntA4.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmproducts.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchase.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaserep.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaseStock.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmrep.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmrestore.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmreturn.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsales.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsalesview.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsettings.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmStockrep.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmtools.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmUserdashboard.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.Properties.Resources.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmUsers.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmvatrep.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.language.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.printorders.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.tablelayout.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsubcat.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmbillview.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmbillview.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frminvoiceview.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frminvoiceview.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaserep.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchasereturn.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchasereturn.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaseretview.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaseretview.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaseview.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaseview.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmaccounting.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmacctbalrep.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmaccttrep.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmaccttrep.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcategories.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcleardata.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcleardata.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmAdminDashboard.ar-SA.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmAdminDashboard.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmAdminDashboard.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcategories.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcreditnote.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdailysales.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdailysales.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdayclose.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdeacust.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdeacust.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdexpense.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdexpense.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmitemsalerep.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmitemsalerep.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmlogin.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmlogin.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmmexpense.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmmexpense.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpayment.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpayment.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmproducts.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmproducts.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchase.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchase.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaserep.aa-ER.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaserep.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaseStock.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaseStock.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmrep.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmrep.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmreturn.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmreturn.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsales.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsales.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsalesview.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsalesview.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsettings.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsettings.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmStockrep.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmtools.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmtools.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmUserdashboard.ar-SA.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmUserdashboard.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmUserdashboard.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmUsers.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmUsers.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmvatrep.ar.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmvatrep.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsubcat.en.resources
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.csproj.GenerateResource.cache
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RdlCompile.cache
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RdlCompile.compiled
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.csproj.CoreCompileInputs.cache
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\ar\RoiyaPOS.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\en\RoiyaPOS.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\ar-SA\RoiyaPOS.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\aa-ER\RoiyaPOS.resources.dll
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.exe.manifest
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.application
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.csproj.CopyComplete
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.exe
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.pdb
+C:\LocalDB\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmexprep.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.csproj.AssemblyReference.cache
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.exe.config
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.csproj.ResolveComReference.cache
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.connect.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmbillview.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcurrsession.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmexprep.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frminvoiceview.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmitempurchaserep.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmitemtr.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchasereturn.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaseretview.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaseview.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsalesrep.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsession.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsessionclose.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.e_invoice.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmaccounting.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmacctbalrep.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmaccttrep.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmbackup.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmbarcode.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcleardata.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmClsEncryption.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcreditnote.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdailysales.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdayclose.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdeacust.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmAdminDashboard.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcategories.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdexpense.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmimport.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frminventory.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmissue.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmitems.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmitemsalerep.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.FrmLicense.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmlogin.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmMain.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmmexpense.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpayment.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmprntA4.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmproducts.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchase.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaserep.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaseStock.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmrep.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmrestore.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmreturn.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsales.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsalesview.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsettings.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmStockrep.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmtools.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmUserdashboard.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.Properties.Resources.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmUsers.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmvatrep.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.language.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.printorders.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.tablelayout.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsubcat.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmbillview.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmbillview.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frminvoiceview.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frminvoiceview.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaserep.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchasereturn.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchasereturn.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaseretview.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaseretview.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaseview.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaseview.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmaccounting.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmacctbalrep.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmaccttrep.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmaccttrep.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcategories.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcleardata.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcleardata.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmAdminDashboard.ar-SA.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmAdminDashboard.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmAdminDashboard.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcategories.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmcreditnote.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdailysales.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdailysales.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdayclose.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdeacust.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdeacust.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdexpense.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmdexpense.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmitemsalerep.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmitemsalerep.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmlogin.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmlogin.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmmexpense.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmmexpense.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpayment.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpayment.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmproducts.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmproducts.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchase.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchase.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaserep.aa-ER.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaserep.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaseStock.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmpurchaseStock.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmrep.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmrep.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmreturn.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmreturn.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsales.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsales.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsalesview.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsalesview.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsettings.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsettings.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmStockrep.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmtools.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmtools.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmUserdashboard.ar-SA.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmUserdashboard.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.frmUserdashboard.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmUsers.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmUsers.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmvatrep.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmvatrep.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsubcat.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.csproj.GenerateResource.cache
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RdlCompile.cache
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RdlCompile.compiled
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.csproj.CoreCompileInputs.cache
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\ar\RoiyaPOS.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\en\RoiyaPOS.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\ar-SA\RoiyaPOS.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\aa-ER\RoiyaPOS.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.exe
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.pdb
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\x86\sqlite3.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\x64\sqlite3.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\Installer.cs
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\Installer.Designer.cs
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\App.config
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\RoiyaPOS.exe.config
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\RoiyaPOS.exe.manifest
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\RoiyaPOS.application
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\RoiyaPOS.exe
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\RoiyaPOS.pdb
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\ar\RoiyaPOS.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\en\RoiyaPOS.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\ar-SA\RoiyaPOS.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\aa-ER\RoiyaPOS.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\netstandard.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.AppContext.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Collections.Concurrent.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Collections.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Collections.NonGeneric.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Collections.Specialized.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.ComponentModel.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.ComponentModel.Primitives.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Console.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Data.Common.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.Contracts.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.Debug.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.Process.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.Tools.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Diagnostics.Tracing.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Drawing.Primitives.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Dynamic.Runtime.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Globalization.Calendars.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Globalization.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Globalization.Extensions.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.Compression.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.FileSystem.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.IsolatedStorage.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.Pipes.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Linq.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Linq.Expressions.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Linq.Parallel.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Linq.Queryable.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.Http.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.NameResolution.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.NetworkInformation.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.Ping.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.Primitives.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.Requests.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.Security.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.Sockets.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.WebSockets.Client.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Net.WebSockets.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.ObjectModel.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Reflection.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Reflection.Extensions.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Reflection.Primitives.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Resources.Reader.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Resources.ResourceManager.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Resources.Writer.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Extensions.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Handles.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.InteropServices.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Numerics.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Claims.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.Principal.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Security.SecureString.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Text.Encoding.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Text.RegularExpressions.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.Overlapped.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.Tasks.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.Thread.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.ThreadPool.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Threading.Timer.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.ValueTuple.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Xml.ReaderWriter.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Xml.XDocument.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Xml.XmlDocument.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Xml.XmlSerializer.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Xml.XPath.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\BarcodeStandard.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\CsvHelper.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\Dapper.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\EntityFramework.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\IronBarCode.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\MessagingToolkit.QRCode.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\QRCoder.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Buffers.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Configuration.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Configuration.Install.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Data.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Data.SQLite.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Drawing.Common.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Memory.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\zxing.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\zxing.presentation.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\ShockwaveFlashObjects.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\EnvDTE.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\stdole.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Numerics.Vectors.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\Microsoft.MSXML.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\CsvHelper.xml
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\Dapper.xml
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\EntityFramework.xml
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\IronBarCode.xml
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Buffers.xml
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Data.SQLite.xml
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Drawing.Common.xml
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Memory.xml
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\zxing.xml
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\zxing.presentation.xml
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.exe.manifest
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.application
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.csproj.CopyComplete
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmprodlist.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmproforma.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmproview.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmsalesmenu.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmprodlist.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmproforma.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmproforma.en.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmrate.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmrate.ar.resources
+C:\SQLSoft\RoiyaPOS\RoiyaPOS\obj\Debug\RoiyaPOS.UI.frmrate.en.resources

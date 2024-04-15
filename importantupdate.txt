@@ -1,0 +1,2 @@
+tbl_sales,tbl_purchase,tbl_accttr --description 500
+30001 cash supplier

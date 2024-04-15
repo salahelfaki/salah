@@ -1,0 +1,79 @@
+1-tbl_users
+id	int (P-Au)
+username	c50
+password	text
+contact		c15
+address		text
+gender		c
+user_type	c
+added_date	datetime
+added_by	int
+2-tbl_categories
+id	int (P-Au)
+title		c
+description	c
+added_date	datetime
+added_by	int
+3-tbl_products
+id		int
+name		c
+category	int
+description	c
+rate		decimal
+qty		dec
+added_date	datetime
+added_by	int
+4-tbl_dea_cust
+id		int
+type		c
+name		c
+email		c
+contact		c
+address		c
+added_date	datetime
+added_by	int
+5-tbl_sales
+id		int
+trdate 		datetime
+subtotal	dec
+vat		dec
+discount	dec
+grandtotal	dec
+paymethod	ch
+added_by	int
+6-tbl_sdetail
+id		int
+trid	int
+productid	int
+productname	c
+rate		dec
+qty		dec
+total		dec
+7- tbl_accttr
+id		int
+trdate		text
+trno
+trtype
+payacct
+acctname
+description
+dbval
+crval
+
+
+==============datagridview
+cellendedit
+
+foreach (datagridview row in datagridview.rows)
+{
+row.cells[datagridview.columns["amount"].index].value=(convert.todouble(row.cells[datagridview.columns["price"].index].value)* (convert.todouble(rwo.cells[dataviewgrid.columns["qty].index].value
+}
+
+==================
+frm_load	
+List<invoicedetail> _List=new List<invoicedetail>();
+=====================================
+font: Tahoma 10
+Colors:
+
+	
